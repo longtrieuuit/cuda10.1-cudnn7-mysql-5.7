@@ -1,7 +1,7 @@
 ##
 ## MySQL 5.7
 ##
-FROM centos:7
+FROM nvidia/cuda:10.1-cudnn7-devel-centos7
 MAINTAINER "cytopia" <cytopia@everythingcli.org>
 
 
