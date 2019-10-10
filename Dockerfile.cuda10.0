@@ -38,10 +38,10 @@ EXPOSE 3306
 ##
 ## Volumes
 ##
-VOLUME /var/lib/mysql
-VOLUME /var/log/mysql
-VOLUME /var/sock/mysqld
-VOLUME /etc/mysql/conf.d
+##VOLUME /var/lib/mysql
+##VOLUME /var/log/mysql
+##VOLUME /var/sock/mysqld
+##VOLUME /etc/mysql/conf.d
 
 
 ##
